@@ -1,0 +1,15 @@
+.weatherApp {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 20px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  /* max-width: 400px; */
+  /* min-width: 50%;
+  min-height: 20%; */
+  max-width: 400px; /* Set a max-width */
+  width: 90%; /* Use percentage for width */
+  min-height: 300px; /* Set a minimum height */
+  color: white;
+  text-align: center;
+}
