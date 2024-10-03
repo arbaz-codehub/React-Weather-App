@@ -4,7 +4,7 @@ import WeatherInfo from "./WeatherInfo";
 import styles from "./WeatherApp.module.css";
 
 const WeatherApp = () => {
-  const apiKey = "1cdb405113484c1eb56161349242209"; // Replace with your WeatherAPI key
+  const apiKey = "your-api-key"; // Replace with your WeatherAPI key
   const [weatherData, setWeatherData] = useState(null);
   const [units, setUnits] = useState("C");
 
