@@ -10,6 +10,8 @@ Currently, two official plugins are available:
 
 # React Weather App
 
+![Modern Weather App](r2.png)
+
 ## Overview
 The Weather App is a React-based application that provides real-time weather information using the [WeatherAPI](https://www.weatherapi.com/). Featuring a stunning glamorism UI with a gradient background that changes based on different temperatures, this app delivers an engaging user experience. It automatically fetches and displays the current weather for the user's location and allows users to search for weather details in any city. The app also includes a toggle button for switching between Celsius and Fahrenheit.
 
